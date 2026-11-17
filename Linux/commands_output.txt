@@ -1,0 +1,75 @@
+total 184
+drwxr-x---@  49 navyyagoyal  staff   1568 17 Nov 19:03 .
+drwxr-xr-x    5 root         admin    160 22 Sep 05:24 ..
+drwxr-xr-x@  16 navyyagoyal  staff    512  4 Oct 01:49 .anydesk
+-r--------    1 navyyagoyal  staff      7  4 Sep 18:48 .CFUserTextEncoding
+drwx------@   5 navyyagoyal  staff    160  6 Sep 01:44 .copilot
+-rw-r--r--@   1 navyyagoyal  staff  18436 17 Nov 14:10 .DS_Store
+-rw-r--r--    1 navyyagoyal  staff    107 13 Nov 23:14 .gitconfig
+-rw-r--r--    1 navyyagoyal  staff      0  3 Oct 12:11 .hidden-config
+-rw-------    1 navyyagoyal  staff     20 13 Nov 23:34 .lesshst
+drwx------+ 264 navyyagoyal  staff   8448 14 Nov 23:20 .Trash
+-rw-------    1 navyyagoyal  staff    832 13 Nov 21:18 .viminfo
+drwxr-xr-x@   6 navyyagoyal  staff    192  4 Oct 19:49 .vscode
+drwxr-xr-x@   3 navyyagoyal  staff     96  4 Sep 19:33 .vscode-shared
+-rw-------    1 navyyagoyal  staff  19703 14 Nov 19:18 .zsh_history
+drwx------   14 navyyagoyal  staff    448 17 Nov 19:03 .zsh_sessions
+drwxr-xr-x    4 navyyagoyal  staff    128 13 Nov 23:14 API_Practical
+drwxr-xr-x    7 navyyagoyal  staff    224 14 Sep 19:19 assigment
+-rw-r--r--@   1 navyyagoyal  staff      0 14 Sep 14:08 assigment2.html
+drwxr-xr-x    5 navyyagoyal  staff    160  9 Oct 21:40 cse103_backups
+drwxr-xr-x    4 navyyagoyal  staff    128 13 Nov 18:36 cse103_lab
+drwxr-xr-x@   6 navyyagoyal  staff    192 17 Sep 14:02 CSS.html
+-rw-r--r--@   1 navyyagoyal  staff    284 16 Sep 11:17 cssclass.html
+drwxr-xr-x@  13 navyyagoyal  staff    416  5 Nov 13:49 cssownpractice.html
+drwx------+  51 navyyagoyal  staff   1632 16 Nov 11:37 Desktop
+drwxr-xr-x    9 navyyagoyal  staff    288 17 Nov 19:04 DeveloperPortfolio
+drwx------+   8 navyyagoyal  staff    256  8 Oct 19:41 Documents
+drwx------+ 205 navyyagoyal  staff   6560 16 Nov 12:27 Downloads
+drwxr-xr-x    2 navyyagoyal  staff     64  8 Oct 11:10 folder1
+drwxr-xr-x@   3 navyyagoyal  staff     96 18 Oct 22:53 homework2.html
+-rw-r--r--@   1 navyyagoyal  staff      0  4 Sep 19:36 html
+drwxr-xr-x   13 navyyagoyal  staff    416 14 Sep 14:06 html folder
+-rw-r--r--@   1 navyyagoyal  staff      0  6 Sep 01:21 index.html
+drwx------@  92 navyyagoyal  staff   2944 18 Oct 22:39 Library
+drwx------    5 navyyagoyal  staff    160  4 Oct 01:33 Movies
+drwx------+   4 navyyagoyal  staff    128  6 Sep 12:02 Music
+drwxr-xr-x@   3 navyyagoyal  staff     96 27 Sep 14:35 newwebsite.html
+-rw-r--r--    1 navyyagoyal  staff     12  8 Oct 11:16 notes.txt
+-rwxrw-r--    1 navyyagoyal  staff      9  6 Oct 10:32 p1.py.save
+drwx------+   4 navyyagoyal  staff    128  4 Sep 18:48 Pictures
+drwxr-xr-x@   6 navyyagoyal  staff    192 21 Oct 17:22 portfolio
+-rw-r--r--@   1 navyyagoyal  staff   1222 21 Oct 11:19 portfolio.html
+drwxr-xr-x    7 navyyagoyal  staff    224  8 Oct 12:09 practice
+drwxr-xr-x+   4 navyyagoyal  staff    128  4 Sep 18:48 Public
+-rwxrw-r--@   1 navyyagoyal  staff   1078  8 Oct 19:42 script1_helllo.sh
+-rwxrw-r--    1 navyyagoyal  staff    395  8 Oct 19:48 script1_hello.sh
+-rw-------    1 navyyagoyal  staff    400  8 Oct 12:18 script1.sh.save
+-rw-------    1 navyyagoyal  staff    431  8 Oct 19:39 script2.sh.save
+-rwxrw-r--    1 navyyagoyal  staff    120  8 Oct 12:01 script3.sh.save
+-rwxrw-r--@   1 navyyagoyal  staff      0  4 Oct 19:53 style.css
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      911   4.0  1.4 492333312 235200   ??  Ss   22Sep26 1794:36.65 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+navyyagoyal      89058   1.3  0.5 489353024  79200   ??  S    Fri09PM   1:09.46 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+navyyagoyal      85306   1.0  2.2 490273072 368592   ??  S    Tue11PM 164:13.90 /Applications/WhatsApp.app/Contents/MacOS/WhatsApp
+root               605   0.6  0.0 488731456   5264   ??  Ss   22Sep26  27:27.83 /usr/sbin/cfprefsd daemon
+navyyagoyal        496   0.6  0.1 488854112  17952   ??  S     7:06PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_driverkit       85984   0.6  0.3 488915200  48448   ??  Ss   Wed06PM  28:45.30 /System/Library/DriverExtensions/AppleCentauriAlpha.dext/AppleCentauriAlpha com.apple.driver.AppleCentauriAlpha 0x1000cbe90 com.apple.driver.AppleCentauriAlpha
+root               572   0.5  0.1 488840352  10816   ??  Ss   22Sep26  17:05.80 /usr/libexec/opendirectoryd
+navyyagoyal       1541   0.5  0.5 489478832  90272   ??  S    22Sep26 268:13.29 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+root             31291   0.4  0.1 488772608  14592   ??  Ss    7Oct26   8:43.90 /usr/libexec/wifip2pd
+Filesystem                               Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                          460Gi    13Gi   348Gi     4%    484k  3.6G    0%   /
+devfs                                   198Ki   198Ki     0Bi   100%     686     0  100%   /dev
+/dev/disk3s6                            460Gi   4.0Gi   348Gi     2%       4  3.6G    0%   /System/Volumes/VM
+/dev/disk3s2                            460Gi    11Gi   348Gi     4%    1.3k  3.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4                            460Gi    52Mi   348Gi     1%     114  3.6G    0%   /System/Volumes/Update
+/dev/disk1s2                            550Mi   6.0Mi   527Mi     2%       1  5.4M    0%   /System/Volumes/xarts
+/dev/disk1s1                            550Mi   5.9Mi   527Mi     2%      42  5.4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                            550Mi   6.6Mi   527Mi     2%     904  5.4M    0%   /System/Volumes/Hardware
+/dev/disk3s5                            460Gi    81Gi   348Gi    19%    806k  3.6G    0%   /System/Volumes/Data
+map auto_home                             0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk3s3                            460Gi   3.7Gi   348Gi     2%     149  3.6G    0%   /Volumes/Recovery
+/Applications/iCloudEMSV2.app/Wrapper   460Gi    69Gi   364Gi    16%    641k  3.8G    0%   /private/var/folders/xw/xnh3xw451qj2tjjhdwpfws9h0000gn/X/7CB7C2F5-07EE-50B6-8FDF-677B4031D2EC
+/dev/disk2s1                            5.0Gi   1.3Gi   3.7Gi    26%      49   39M    0%   /System/Volumes/Update/SFR/mnt1
+PhysMem: 15G used (2946M wired, 3806M compressor), 149M unused.
