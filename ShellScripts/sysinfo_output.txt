@@ -1,0 +1,11 @@
+==========================================
+Name: Navya | Roll No: 2601201013 | Date: Tue Nov 17 19:09:15 IST 2026
+==========================================
+CPU Model: Apple M5
+CPU Cores: 10
+Memory: Total 16.0 GB, Used 10.8 GB
+Top 3 processes by CPU:
+  3.6%  /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer
+  2.7%  /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+  2.5%  /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+Report generated successfully.
